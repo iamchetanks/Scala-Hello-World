@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\Scala\Scala-Hello-World\myproject\target\scala-2.12\myproject_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\Scala\Scala-Hello-World\myproject\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helloworld[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\Scala\Scala-Hello-World\myproject\target\scala-2.12\classes\com\helloworld[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helloworld\HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\Scala\Scala-Hello-World\myproject\target\scala-2.12\classes\com\helloworld\HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helloworld\HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\Scala\Scala-Hello-World\myproject\target\scala-2.12\classes\com\helloworld\HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helloworld\HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\Scala\Scala-Hello-World\myproject\target\scala-2.12\classes\com\helloworld\HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
